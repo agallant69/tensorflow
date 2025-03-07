@@ -1,1 +1,2 @@
-github
+name = 'Poop'
+print(name)
